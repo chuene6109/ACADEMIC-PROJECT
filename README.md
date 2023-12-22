@@ -9,3 +9,5 @@ Below are the screenshots of our application:
 ![PHOTO-2023-11-09-16-27-08](https://github.com/Vincent-Msiza/Lib-Nova/assets/84848919/8944f635-7aba-478d-a266-9f96111779c1)
 ![PHOTO-2023-11-09-16-27-07 3](https://github.com/Vincent-Msiza/Lib-Nova/assets/84848919/bf59ce9d-a5cf-4810-9fd7-7a9895b2f789)
 ![PHOTO-2023-11-09-16-27-06 3](https://github.com/Vincent-Msiza/Lib-Nova/assets/84848919/b120db94-fb89-4d1f-b83c-3d33df31a4ba)
+https://github.com/chuene6109/academic-project/assets/129751307/60afc739-a7db-4548-86b7-abd54701c9a1
+
